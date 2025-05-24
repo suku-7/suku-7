@@ -28,14 +28,6 @@
 
 ---
 
-## 📊 Activity Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojhandle" width="250"/>
-</p>
-
----
 ## 📬 Reach Me
 
 [![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
