@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I’m suku – AI Backend Engineer </h1>
 <p align="center">
-  생성형 AI, 이미지, 자동화와 로봇 기술에 관심이 많은 <br>
-  개발자 Geunwoo의 GitHub입니다.
+  생성형 AI, 이미지 처리, 자동화 및 로봇 기술에 관심이 많은 <br>
+  개발자 **Geunwoo**의 GitHub에 오신 것을 환영합니다. 😊
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
   <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data Engineering-Python%20%7C%20GCP%20%7C%20SQL-yellowgreen?style=flat-square" />
 </p>
 
 ---
