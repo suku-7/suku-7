@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
+
 ---
 
 ## 🔎 Skills
@@ -24,6 +25,15 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 Activity Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suku-7&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojhandle" width="250"/>
+</p>
 
 ---
 
