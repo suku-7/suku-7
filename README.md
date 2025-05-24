@@ -30,7 +30,7 @@
 
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
+[![Gmail](https://img.shields.io/badge/ryumon6550@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
 [![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://sukuai.tistory.com/)
 
 ---
