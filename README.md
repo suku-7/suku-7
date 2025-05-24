@@ -3,3 +3,42 @@
   생성형 AI, 이미지, 자동화와 로봇 기술에 관심이 많은 <br>
   개발자 Geunwoo의 GitHub입니다.
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data Engineering-Python%20%7C%20GCP%20%7C%20SQL-yellowgreen?style=flat-square" />
+</p>
+
+---
+
+## 🔎 Skills
+
+### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
+### ☁️ DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 Activity Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubid&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yourbojhandle" width="250"/>
+</p>
+
+---
+## 📬 Reach Me
+
+[![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
+[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://sukuai.tistory.com/)
+
+---
