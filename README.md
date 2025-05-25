@@ -15,6 +15,7 @@
 ## 🔎 Skills
 
 ### 💻 Languages & Frameworks  
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
@@ -38,7 +39,8 @@
 
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/ryumon6550@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
-[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://sukuai.tistory.com/)
+<p>
+  <img src="https://img.shields.io/badge/Gmail-ryumon6550@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=tistory&logoColor=white" />
+</p>
 
----
