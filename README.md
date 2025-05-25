@@ -40,7 +40,7 @@
 ## 📬 Reach Me
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-ryumon6550@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=tistory&logoColor=white" />
+  [![Gmail](https://img.shields.io/badge/ryumon6550@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryumon6550@gmail.com)
+  [![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://sukuai.tistory.com/)
 </p>
 
