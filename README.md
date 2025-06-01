@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m suku – AI Backend Engineer </h1>
 <p align="center">
-  생성형 AI, 이미지 처리, 자동화 및 로봇 기술에 관심이 많은 <br>
+  자동화 및 로봇 기술, 생성형 AI, 이미지 처리에 관심이 많은 <br>
   개발자 suku의 GitHub에 오신 것을 환영합니다. 😊
 </p>
 
