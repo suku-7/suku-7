@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
   <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-Driven-purple?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/StableDiffusion-black?style=flat-square&logo=stabilityai&logoColor=white" />
 </p>
 
 
