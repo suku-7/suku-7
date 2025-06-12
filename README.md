@@ -15,9 +15,7 @@
 ## 🔎 Skills
 
 ### 💻 Languages & Frameworks  
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
