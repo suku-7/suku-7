@@ -10,18 +10,15 @@
   <img src="https://img.shields.io/badge/Gemini-Driven-purple?style=flat-square&logo=google&logoColor=white" />
 </p>
 
-
 ---
 ## Skill & Tech Stack
 
----
 ### 기획 & API
 ![Eventstorming](https://img.shields.io/badge/Eventstorming-orange.svg?style=flat&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-FFC107.svg?style=flat&logo=diagrams.net&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
----
 ### 백엔드
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=OpenJDK&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=spring&logoColor=white)
@@ -29,7 +26,6 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
----
 ### 프론트엔드 & AI/ML
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
@@ -40,13 +36,13 @@
 ![LangChain](https://img.shields.io/badge/LangChain-2A0D57.svg?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A.svg?style=flat&logoColor=white)
 
----
 ### 개발 환경 & 운영 & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
 ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
+---
 ## 📊 Activity Highlights
 
 <p align="left">
