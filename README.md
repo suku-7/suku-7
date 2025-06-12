@@ -37,7 +37,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-2A0D57.svg?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A.svg?style=flat&logoColor=white)
 
-### 개발 환경 & 운영 & DevOps
+### 개발 환경 & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white)
