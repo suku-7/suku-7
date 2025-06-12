@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I’m suku – AI Backend Engineer </h1>
-<p align="center">
+<h1 align="left">👋 Hi, I’m suku – AI Backend Engineer </h1>
+<p align="left">
   자동화 및 로봇 기술, 생성형 AI 서비스 제작에 관심이 많은 <br>
   개발자 suku의 GitHub에 오신 것을 환영합니다. 😊 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AIVLE SCHOOL-KT-red?style=flat-square" />
   <img src="https://img.shields.io/badge/GPT-Driven-blue?style=flat-square&logo=openai&logoColor=white" />
 </p>
