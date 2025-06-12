@@ -1,7 +1,7 @@
 <h1 align="left"> Hi 👋, I’m suku – AI Backend Engineer </h1>
 <p align="left">
   안녕하세요. 자동화 기술 분야에서 9년간의 현장 경험을 바탕으로, <br>
-  현재는 로봇과 생성형 AI에 깊은 관심을 갖고 AI 백엔드 개발자로 성장 중인 류근우입니다. <br>
+  현재는 로봇과 생성형 AI에 깊은 관심을 갖고 AI 백엔드 개발자로 성장 중인 수쿠입니다. <br>
   GitHub를 찾아주셔서 감사합니다 😊
 </p>
 
