@@ -36,6 +36,10 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991.svg?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-2A0D57.svg?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A1A1A.svg?style=flat&logoColor=white)
+![SerpAPI](https://img.shields.io/badge/SerpAPI-007ACC.svg?style=flat&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Maps_API-4285F4.svg?style=flat&logo=googlemaps&logoColor=white)
+![Clova Studio LLM](https://img.shields.io/badge/Clova_Studio_LLM-03C75A.svg?style=flat&logoColor=white)
+![Naver Search API](https://img.shields.io/badge/Naver_Search_API-03C75A.svg?style=flat&logoColor=white)
 
 ### 개발 환경 & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
