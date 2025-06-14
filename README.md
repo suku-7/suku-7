@@ -26,6 +26,7 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=flat&logo=spring-security&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)
 
 ### 프론트엔드 & AI/ML
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
