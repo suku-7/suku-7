@@ -16,7 +16,7 @@
 
 ### 기획 & API
 ![Eventstorming](https://img.shields.io/badge/Eventstorming-orange.svg?style=flat&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-FFC107.svg?style=flat&logo=diagrams.net&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-FFC107.svg?style=flat&logo=diagrams.net&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
