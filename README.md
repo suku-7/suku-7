@@ -50,7 +50,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suku-7&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suku-7)](https://github.com/suku-7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suku-7)](https://github.com/suku-7)
+
 ---
 
 ## 📬 Contact
